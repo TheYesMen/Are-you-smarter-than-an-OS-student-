@@ -72,7 +72,7 @@ Entertainment/Games
 # Installation and Start-up
 ## Server/initial Setup
 1. Fork TheYesMen/Are-you-smarter-than-an-OS-student- repo
-2. Clone your forced repo to your local system
+2. Clone your forked repo to your local system
 3. Run npm install to install dependancies
 ```
 npm i
